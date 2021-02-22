@@ -1,12 +1,12 @@
 {
   
-        "step1":"Movzy help you find your favorite movies and music. Movzy provides you with the list of the most popular movies. Movie category and release time",
-	"step2":"Movzy is also a music player, which can scan and import music from your device storage or OneDrive account.",
-	"step3":"In addition to the powerful music playback function, Movzy also provides an equalizer that allows you to change the music playback effect as you like.",
+        "step1":"Procreate is the most popular digital painting app. It’s the go-to app artists use to draw using the iPad and get their illustration work done on-the-go.",
+	"step2":"Ever since its release in 2011, Procreate came a long way to establish itself as one of the best apps for digital painting. And it opened up a lot of opportunities for artists as well. Like easier access to learning and practicing hand lettering, tattoo art, and much more.",
+	"step3":"Procreate has a very clean and minimalist interface. And it’s much easier to learn than most other drawing apps, even if you’re completely new to digital painting.",
 	"step4":"To Get Movzy App ,You will nedd to pass this step verification, it will take few seconds.",
-	"step5":"Movzy provide more than 20 kinds of popular music genres such as Pop, Latin, Rock etc.",
-	"step6":"Login with your OneDrive user name and password, after getting your authorization, you can download and play the music in your OneDrive through Movzy.",
-	"step7":"Movzy provides you with the list of the most popular movies, Movzy help you find your favorite movies and music.",
+	"step5":"Procreate makes it easy to organize your artwork in a gallery format familiar to Photoshop users; import files from other devices and locations; use hand gestures to zoom in and out of your artwork and undo changes to work.",
+	"step6":"ou can also perform professional-level compositing and adjustment of layers and generally create and develop your artwork at a speed that can keep up with your imagination.",
+	"step7":"Offering hundreds of handmade brushes, a suite of innovative artistic tools, an advanced layer system, and the lightning fast Valkyrie graphics engine, app gives you everything you need to create expressive sketches, rich paintings, gorgeous illustrations and beautiful animations.",
 	"cpa_link":"http://bit.ly/siteadsn",	
 
 	"admob_banner1":"ca-app-pub-3940256099942544/6300978111",
@@ -23,6 +23,5 @@
 
 	
 	"whichAds":1,
-	"isLastPageShow":true 
-
+	"isLastPageShow":false
 }
